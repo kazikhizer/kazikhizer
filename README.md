@@ -1,6 +1,8 @@
 ![logo](https://github.com/kazikhizer/kazikhizer/blob/main/kazi%20khizeroddin-backgroundPoster-lnkd.png)
-<h1 align="center">Hi 👋, I'm kazi khizer</h1>
-<h3 align="center">A passionate Backend Node.js Developer</h3>
+<h1 align="center">Hi Developer 👋 </h1>
+<p>Hi ! I'm kazi khizer, a Backend Node.js developer, create a building efficient, scalable applications using Node.js. My expertise lies in API development, microservices architecture, database management (SQL/NoSQL), and cloud services.<br/>
+🛠 Skills/Languages/Tools: Node.js, Express, JavaScript (ES6+), MongoDB, SQL/NoSql, AWS , HTML, CSS, React.js, RESTful APIs, WebSockets, OAuth, JWT Authentication-Authorization, JSON, Git , GitHub, NPM, EJS, Postman API, MongoDB Atlas, OOPS, Application Programming Interface API
+</p>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazikhizer&label=Profile%20views&color=0e75b6&style=flat" alt="kazikhizer" /> </p>
