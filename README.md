@@ -1,3 +1,4 @@
+!{logo}(https://github.com/kazikhizer/kazikhizer/blob/main/kazi%20khizeroddin-backgroundPoster-lnkd.png)
 <h1 align="center">Hi 👋, I'm kazi khizer</h1>
 <h3 align="center">A passionate Backend Node.js Developer</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
